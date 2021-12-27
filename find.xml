@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.js</mask>
+    <mask>*.properties</mask>
+    <mask>*.groovy</mask>
+    <mask>*.java</mask>
+    <mask>*.vm</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>
